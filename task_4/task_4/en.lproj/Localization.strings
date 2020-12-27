@@ -1,0 +1,27 @@
+/*
+  Localization.strings
+  task_4
+
+ Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "Give Me Some Details";
+"buttons.check_stats" = "Check Stats";
+"buttons.done" = "Done";
+"buttons.ok" = "Ok";
+
+"homepage.beyound_limits" = "Beyound Limits";
+"homepage.enter_username" = "Enter username";
+"homepage.error" = "Username can't be empty!";
+
+"details.player_enthusiast" = "Player enthusiast";
+"details.date" = "Lorem ipsum text since Jan 2015";
+
+"stats.videos" = "Videos";
+"stats.hearts" = "Hearts";
+"stats.games" = "Games";
+"stats.wins" = "Wins";
+
+"alert.title" = "Big Alert Title";
+"alert.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";

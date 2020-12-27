@@ -1,0 +1,27 @@
+/*
+  Localization.strings
+  task_4
+
+ Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "أعطني بعض التفاصيل";
+"buttons.check_stats" = "تحقق من حالة";
+"buttons.done" = "منجز";
+"buttons.ok" = "حسنا";
+
+"homepage.beyound_limits" = "ما وراء الحدود";
+"homepage.enter_username" = "أدخل اسم المستخدم";
+"homepage.error" = "اسم المستخدم لا يمكن أن يكون فارغا!";
+
+"details.player_enthusiast" = "لاعب متحمس";
+"details.date" = "نص Lorem ipsum منذ كانون الثاني (يناير) 2015";
+
+"stats.videos" = "فيديو";
+"stats.hearts" = "قلوب";
+"stats.games" = "ألعاب";
+"stats.wins" = "يفوز";
+
+"alert.title" = "عنوان تنبيه كبير";
+"alert.text" = "جزر لوريم إيبسوم ، مطور جامعي محسن ، لكنها تحدث الوقت والحيوية ، مثل المخاض والسمنة.";

@@ -1,0 +1,27 @@
+/*
+  Localization.strings
+  task_4
+
+  Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "Dammi alcuni dettagli";
+"buttons.check_stats" = "Controllare lo stato";
+"buttons.done" = "Fatto";
+"buttons.ok" = "Ok";
+
+"homepage.beyound_limits" = "Oltre i limiti";;
+"homepage.enter_username" = "Inserisci il nome utente";
+"homepage.error" = "Il nome utente non può essere vuoto!";
+
+"details.player_enthusiast" = "Appassionato di giocatori";
+"details.date" = "Testo Lorem ipsum da gennaio 2015";
+
+"stats.videos" = "Video";
+"stats.hearts" = "Cuori";
+"stats.games" = "Giochi";
+"stats.wins" = "Vittorie";
+
+"alert.title" = "Big Alert title";
+"alert.text" = "Lorem ipsum carote, sviluppatore universitario avanzato, ma occorrono tempo e vitalità, come il travaglio e l'obesità.";

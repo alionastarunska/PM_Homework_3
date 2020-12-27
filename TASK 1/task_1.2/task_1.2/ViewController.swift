@@ -17,7 +17,6 @@ class ViewController: UIViewController {
             super.viewWillTransition(to: size, with: coordinator)
             if UIScreen.main.traitCollection.userInterfaceIdiom == .pad {
                 let isLandscape = UIDevice.current.orientation.isLandscape
-                print(portraitConstrains)
                 portraitConstrains.forEach({ $0.priority = isLandscape ? .defaultLow : .defaultHigh })
                 landscapeConstrains.forEach({ $0.priority = isLandscape ? .defaultHigh : .defaultLow })
                 view.layoutIfNeeded()

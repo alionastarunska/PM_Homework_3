@@ -1,0 +1,27 @@
+/*
+  Localization.strings
+  task_4
+
+  Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "Gib mir ein paar Details";
+"buttons.check_stats" = "Status überprüfen";
+"buttons.done" = "Getan";
+"buttons.ok" = "OK";
+
+"homepage.beyound_limits" = "Beyound Limits";
+"homepage.enter_username" = "Geben Sie den Benutzernamen ein";
+"homepage.error" = "Benutzername darf nicht leer sein!";
+
+"details.player_enthusiast" = "Spieler-Enthusiast";
+"details.date" = "Lorem ipsum Text seit Januar 2015";
+
+"stats.videos" = "Video";
+"stats.hearts" = "Herzen";
+"stats.games" = "Spiele";
+"stats.wins" = "Gewinnt";
+
+"alert.title" = "Big Alert Titel";
+"alert.text" = "Lorem ipsum Karotten, ein verbesserter Entwickler für Studenten, aber sie haben Zeit und Vitalität, wie Wehen und Fettleibigkeit.";

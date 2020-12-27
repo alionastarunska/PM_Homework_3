@@ -1,0 +1,27 @@
+/*
+  Localization.strings
+  task_4
+
+  Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "Посмотреть подробности";
+"buttons.check_stats" = "Проверить состояние";
+"buttons.done" = "Готово";
+"buttons.ok" = "ОК";
+
+"homepage.beyound_limits" = "За пределами границ";
+"homepage.enter_username" = "Введите имя пользователя";
+"homepage.error" = "Имя не может быть пустым!";
+
+"details.player_enthusiast" = "Игрок-энтузиаст";
+"details.date" = "Текст Lorem ipsum с января 2015 года";
+
+"stats.videos" = "Видео";
+"stats.hearts" = "Сердечки";
+"stats.games" = "Игры";
+"stats.wins" = "Победы";
+
+"alert.title" = "Большой заголовок";
+"alert.text" = "Ха-ха. Спасибо гугл-переводчику за отличный перевод, который выглядит вот так: \"Морковь Lorem ipsum, улучшенная разработчик для студентов, но она действительно отнимает время и жизнеспособность, например, роды и ожирение\"";

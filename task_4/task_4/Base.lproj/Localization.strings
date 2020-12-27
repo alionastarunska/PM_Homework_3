@@ -1,0 +1,27 @@
+/* 
+  Localization.strings
+  task_4
+
+ Created by Aliona Starunska on 27.12.2020.
+  
+*/
+
+"buttons.give_me_details" = "";
+"buttons.check_stats" = "";
+"buttons.done" = "";
+"buttons.ok" = "";
+
+"homepage.beyound_limits" = "";
+"homepage.enter_username" = "";
+"homepage.error" = "";
+
+"details.player_enthusiast" = "";
+"details.date" = "";
+
+"stats.videos" = "";
+"stats.hearts" = "";
+"stats.games" = "";
+"stats.wins" = "";
+
+"alert.title" = "";
+"alert.text" = "";
